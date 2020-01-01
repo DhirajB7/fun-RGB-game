@@ -17,8 +17,18 @@ body{
 
 h1{
     color: white;
+    text-align: center;
 }
 
 #message,#headerColor{
     color:white;
+}
+
+#nav div{
+    display: inline;
+    margin-left: 16%;
+}
+
+hr{
+    width: 80%;
 }
